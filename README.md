@@ -29,12 +29,12 @@ Installation
 ```
 Images
 ==========
-https://github.com/dhimanreshu/RestApi/blob/main/static/get2.png
 
-https://github.com/dhimanreshu/RestApi/assets/106768404/d6186104-cd89-462e-aa05-a45aceb09a4b
+![Screenshot 2024-05-02 165738 - Copy](https://github.com/dhimanreshu/RestApi/assets/106768404/de4eb45b-25a4-4030-8fbe-9a28439261fd.png)
 
-https://github.com/dhimanreshu/RestApi/assets/106768404/c990071d-7ade-4522-9140-363c51bcdf75
+![Screenshot 2024-05-03 170421](https://github.com/dhimanreshu/RestApi/assets/106768404/ae850a52-e5f0-4bd4-8f26-98af534190c6.png)
 
-https://github.com/dhimanreshu/RestApi/assets/106768404/7a6950ee-9758-4335-a3b7-a06f5dce805c)
+![Screenshot 2024-05-03 170829](https://github.com/dhimanreshu/RestApi/assets/106768404/474d1ce8-9cc5-425f-9175-247ec7a4494d.png)
 
-https://github.com/dhimanreshu/RestApi/assets/106768404/ca52389d-5d92-4a02-a925-adba9a7d0943
+![Screenshot 2024-05-03 170953](https://github.com/dhimanreshu/RestApi/assets/106768404/8cb8bee5-220e-4e78-9514-4f7d4bea9d46.png)
+
