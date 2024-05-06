@@ -29,6 +29,8 @@ Installation
 ```
 Images
 ==========
+https://github.com/dhimanreshu/RestApi/blob/main/static/get2.png
+
 https://github.com/dhimanreshu/RestApi/assets/106768404/d6186104-cd89-462e-aa05-a45aceb09a4b
 
 https://github.com/dhimanreshu/RestApi/assets/106768404/c990071d-7ade-4522-9140-363c51bcdf75
